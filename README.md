@@ -1,0 +1,1 @@
+# [Alfa]## Tabla de integrantes|       Nombre      | Ubicaci√≥n ||-------------------|-----------|| [Luis Guti√rrez]  | [Alfa]    || [Glendimar Perez] | [Bravo]   |
